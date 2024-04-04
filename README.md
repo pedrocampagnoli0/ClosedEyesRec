@@ -1,4 +1,4 @@
-### Face and Eye Detection Program
+### Eye Detection Program
 
 This Python program utilizes OpenCV to perform real-time face and eye detection using the default webcam input.
 
